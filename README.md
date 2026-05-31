@@ -5,10 +5,15 @@ In this video, I have created a beginner level wine order management dashboard u
 
 
 What You Will Learn:
+
 	Order Volume Segmentation Donut chart
+
 	Total Order by Months Area Chart
+
 	Order by Wines Bar Chart
+
 	Order Funnel Chart
+
 	Order Decomposition Insight
 
 📊 This dashboard is designed for people who are starting to learn data visualization and dashboard creation.
